@@ -1,0 +1,7 @@
+{
+  "name": "Firebase_CV",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
